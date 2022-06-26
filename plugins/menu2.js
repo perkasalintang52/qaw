@@ -162,14 +162,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '📍Instagram',
-               url: instagram
+               url: https://instagram.com/joceylintangg
              }
 
            },
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: '6285822347348'
+               PhoneNumber: '6281322577123'
              }
 
            },
